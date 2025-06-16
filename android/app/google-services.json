@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118728749371",
+    "project_id": "mohammed-1249b",
+    "storage_bucket": "mohammed-1249b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118728749371:android:7826295fe16e32afe6471e",
+        "android_client_info": {
+          "package_name": "com.example.dawin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wEVxJo60rjYykffYPiacvrs6ngOXuH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118728749371:android:87dd51e329f1bf15e6471e",
+        "android_client_info": {
+          "package_name": "com.example.gustoro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wEVxJo60rjYykffYPiacvrs6ngOXuH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
