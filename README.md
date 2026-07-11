@@ -1,16 +1,16 @@
-# gustoro
+# Gustoro
 
-A new Flutter project.
+> **Legacy Flutter repository.** This codebase is an earlier experiment retained for development history, not a current product or a representative production sample.
 
-## Getting Started
+## Status
 
-This project is a starting point for a Flutter application.
+The project is not actively maintained and may require dependency and configuration updates before it runs on current Flutter tooling. It is intentionally unpinned from my portfolio.
 
-A few resources to get you started if this is your first Flutter project:
+## Local exploration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For current mobile products and verified screens, visit [akoding.dev](https://akoding.dev).
